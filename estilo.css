@@ -195,6 +195,20 @@ figcaption
     color: gray;
 }
 
+/* ---------- video ---------- */
+
+.video
+{
+    text-align: center;
+}
+
+video
+{
+    border: 6px solid #28202e;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px gray;
+}
+
 /* ---------- listas ---------- */
 
 ul, ol
